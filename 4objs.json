@@ -1,0 +1,12 @@
+{"obj_data": [["obj1", 1.0e+23, 1e+8, 0, 0, 0, 100, 0], 
+              ["obj2", 1.0e+23, 0, 1e+8, 0, -100, 0, 0], 
+              ["obj3", 1.0e+23, -1e+8, 0, 0, 0, -100, 0], 
+              ["obj4", 1.0e+23, 0, -1e+8, 0, 100, 0, 0]], 
+             "object_color_list": ["#ff120a", "#982727", "#0edc99", "#0e0c90"], 
+             "sim_control_dict,current_time_day_var": "112.56299871096242",
+             "sim_control_dict,current_time_ts_var": "2024-05-05T13:30:43.088627199", 
+             "sim_control_dict,time_step_entry_s_var": "86400.0", 
+             "sim_control_dict,time_step_entry_d_var": "0.1",
+             "sim_control_dict,rotation_x_entry_var": "49.28571428571428",
+             "sim_control_dict,rotation_y_entry_var": "-53.571428571428584", 
+             "sim_control_dict,rotation_z_entry_var": "-96.42857142857143"}

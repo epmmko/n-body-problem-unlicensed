@@ -1,0 +1,223 @@
+*******************************************************************************
+ Revised: July 31, 2013             Moon / (Earth)                          301
+ 
+ GEOPHYSICAL DATA (updated 2018-Aug-15):
+  Vol. mean radius, km  = 1737.53+-0.03    Mass, x10^22 kg       =    7.349
+  Radius (gravity), km  = 1738.0           Surface emissivity    =    0.92
+  Radius (IAU), km      = 1737.4           GM, km^3/s^2          = 4902.800066
+  Density, g/cm^3       =    3.3437        GM 1-sigma, km^3/s^2  =  +-0.0001  
+  V(1,0)                =   +0.21          Surface accel., m/s^2 =    1.62
+  Earth/Moon mass ratio = 81.3005690769    Farside crust. thick. = ~80 - 90 km
+  Mean crustal density  = 2.97+-.07 g/cm^3 Nearside crust. thick.= 58+-8 km 
+  Heat flow, Apollo 15  = 3.1+-.6 mW/m^2   Mean angular diameter = 31'05.2"
+  Heat flow, Apollo 17  = 2.2+-.5 mW/m^2   Sid. rot. rate, rad/s = 0.0000026617
+  Geometric Albedo      = 0.12             Mean solar day        = 29.5306 d
+  Obliquity to orbit    = 6.67 deg         Orbit period          = 27.321582 d
+  Semi-major axis, a    = 384400 km        Eccentricity          = 0.05490
+  Mean motion, rad/s    = 2.6616995x10^-6  Inclination           = 5.145 deg
+  Apsidal period        = 3231.50 d        Nodal period          = 6798.38 d
+                                 Perihelion  Aphelion    Mean
+  Solar Constant (W/m^2)         1414+-7     1323+-7     1368+-7
+  Maximum Planetary IR (W/m^2)   1314        1226        1268
+  Minimum Planetary IR (W/m^2)      5.2         5.2         5.2
+********************************************************************************
+
+
+*******************************************************************************
+Ephemeris / WWW_USER Sun Jan 14 04:24:58 2024 Pasadena, USA      / Horizons
+*******************************************************************************
+Target body name: Moon (301)                      {source: DE441}
+Center body name: Earth (399)                     {source: DE441}
+Center-site name: (user defined site below)
+*******************************************************************************
+Start time      : A.D. 2024-Jan-14 00:00:00.0000 TDB
+Stop  time      : A.D. 2024-Jan-15 00:00:00.0000 TDB
+Step-size       : 60 minutes
+*******************************************************************************
+Center geodetic : 264.6397, 29.7572, 0.0          {E-lon(deg),Lat(deg),Alt(km)}
+Center cylindric: 264.6397,5541.66445,3147.03667  {E-lon(deg),Dxy(km),Dz(km)}
+Center pole/equ : ITRF93                          {East-longitude positive}
+Center radii    : 6378.137, 6378.137, 6356.752 km {Equator_a, b, pole_c}
+Output units    : KM-S
+Calendar mode   : Mixed Julian/Gregorian
+Output type     : GEOMETRIC cartesian states
+Output format   : 3 (position, velocity, LT, range, range-rate)
+EOP file        : eop.240112.p240405
+EOP coverage    : DATA-BASED 1962-JAN-20 TO 2024-JAN-12. PREDICTS-> 2024-APR-04
+Reference frame : Ecliptic of J2000.0
+*******************************************************************************
+JDTDB
+   X     Y     Z
+   VX    VY    VZ
+   LT    RG    RR
+*******************************************************************************
+$$SOE
+2460323.500000000 = A.D. 2024-Jan-14 00:00:00.0000 TDB 
+ X = 2.997055570193290E+05 Y =-1.970283059055794E+05 Z =-2.718991623542389E+04
+ VX= 7.115483824139792E-01 VY= 5.516227045010107E-01 VZ= 2.110685940753546E-01
+ LT= 1.199824374080664E+00 RG= 3.596982982739538E+05 RR= 2.747602099095470E-01
+2460323.541666667 = A.D. 2024-Jan-14 01:00:00.0000 TDB 
+ X = 3.024270439015328E+05 Y =-1.949666311369547E+05 Z =-2.645750090647668E+04
+ VX= 7.984547493007859E-01 VY= 5.976044871945446E-01 VZ= 1.941549383971675E-01
+ LT= 1.203487530261417E+00 RG= 3.607964848694195E+05 RR= 3.321111110166599E-01
+2460323.583333333 = A.D. 2024-Jan-14 02:00:00.0000 TDB 
+ X = 3.054366843290128E+05 Y =-1.926997610283194E+05 Z =-2.580320014793280E+04
+ VX= 8.706058852935472E-01 VY= 6.650304558703911E-01 VZ= 1.679298248745521E-01
+ LT= 1.207716570072589E+00 RG= 3.620643191093907E+05 RR= 3.685274441976934E-01
+2460323.625000000 = A.D. 2024-Jan-14 03:00:00.0000 TDB 
+ X = 3.086709409915067E+05 Y =-1.901577088938594E+05 Z =-2.525738223817313E+04
+ VX= 9.224159927466691E-01 VY= 7.496690141555876E-01 VZ= 1.342418277745097E-01
+ LT= 1.212245716041349E+00 RG= 3.634221229120060E+05 RR= 3.818619296969277E-01
+2460323.666666667 = A.D. 2024-Jan-14 04:00:00.0000 TDB 
+ X = 3.120485671805429E+05 Y =-1.872879577139398E+05 Z =-2.484279717559864E+04
+ VX= 9.496888959301728E-01 VY= 8.461021817717902E-01 VZ= 9.545041547293004E-02
+ LT= 1.216792496678670E+00 RG= 3.647852134552553E+05 RR= 3.714872458930859E-01
+2460323.708333333 = A.D. 2024-Jan-14 05:00:00.0000 TDB 
+ X = 3.154761590448614E+05 Y =-1.840590838010594E+05 Z =-2.457301952528882E+04
+ VX= 9.499056488098430E-01 VY= 9.480967893911418E-01 VZ= 5.426427363596087E-02
+ LT= 1.221075995013080E+00 RG= 3.660693739497670E+05 RR= 3.382782906414275E-01
+2460323.750000000 = A.D. 2024-Jan-14 06:00:00.0000 TDB 
+ X = 3.188545411636158E+05 Y =-1.804629353111432E+05 Z =-2.445151998789120E+04
+ VX= 9.223972197941039E-01 VY= 1.049031531414353E+00 VZ= 1.355570015575047E-02
+ LT= 1.224834305038242E+00 RG= 3.671960869501362E+05 RR= 2.845013308541715E-01
+2460323.791666667 = A.D. 2024-Jan-14 07:00:00.0000 TDB 
+ X = 3.220855479001929E+05 Y =-1.765152163243595E+05 Z =-2.447142930639279E+04
+ VX= 8.683904210951812E-01 VY= 1.142350615053948E+00 VZ=-2.383621051138535E-02
+ LT= 1.227840203211786E+00 RG= 3.680972325520808E+05 RR= 2.136311762804230E-01
+2460323.833333333 = A.D. 2024-Jan-14 08:00:00.0000 TDB 
+ X = 3.250787358819268E+05 Y =-1.722544364694761E+05 Z =-2.461601068765014E+04
+ VX= 7.909239355891322E-01 VY= 1.222012921820511E+00 VZ=-5.530010784601574E-02
+ LT= 1.229914297618171E+00 RG= 3.687190304122949E+05 RR= 1.301171625060485E-01
+2460323.875000000 = A.D. 2024-Jan-14 09:00:00.0000 TDB 
+ X = 3.277575676676711E+05 Y =-1.677392980590917E+05 Z =-2.485980836793238E+04
+ VX= 6.946401950099078E-01 VY= 1.282905904834467E+00 VZ=-7.863132066943723E-02
+ LT= 1.230935149631287E+00 RG= 3.690250741465613E+05 RR= 3.911551095759287E-02
+2460323.916666667 = A.D. 2024-Jan-14 10:00:00.0000 TDB 
+ X = 3.300646429021998E+05 Y =-1.630446997637677E+05 Z =-2.517039362278872E+04
+ VX= 5.854673698955782E-01 VY= 1.321195861879445E+00 VZ=-9.218292685815010E-02
+ LT= 1.230846048277167E+00 RG= 3.689983622325984E+05 RR=-5.379867698967838E-02
+2460323.958333333 = A.D. 2024-Jan-14 11:00:00.0000 TDB 
+ X = 3.319656185199862E+05 Y =-1.582566306483385E+05 Z =-2.551058858441590E+04
+ VX= 4.702132612891944E-01 VY= 1.334590583477268E+00 VZ=-9.497860606038089E-02
+ LT= 1.229658252093671E+00 RG= 3.686422698951450E+05 RR=-1.429304696593924E-01
+2460324.000000000 = A.D. 2024-Jan-14 12:00:00.0000 TDB 
+ X = 3.334515493882638E+05 Y =-1.534663044258058E+05 Z =-2.584101549042093E+04
+ VX= 3.560989206692641E-01 VY= 1.322496379401553E+00 VZ=-8.677954276705441E-02
+ LT= 1.227450608161968E+00 RG= 3.679804348944711E+05 RR=-2.227684296455153E-01
+2460324.041666667 = A.D. 2024-Jan-14 13:00:00.0000 TDB 
+ X = 3.345394890101412E+05 Y =-1.487639358436170E+05 Z =-2.612279668967881E+04
+ VX= 2.502639543367346E-01 VY= 1.286058724199026E+00 VZ=-6.810079554383613E-02
+ LT= 1.224365533482959E+00 RG= 3.670555527733377E+05 RR=-2.882860594274838E-01
+2460324.083333333 = A.D. 2024-Jan-14 14:00:00.0000 TDB 
+ X = 3.352713091289162E+05 Y =-1.442325856396267E+05 Z =-2.632022040048002E+04
+ VX= 1.592774087791241E-01 VY= 1.228083736697136E+00 VZ=-4.017601080391492E-02
+ LT= 1.220601424633794E+00 RG= 3.659271013292667E+05 RR=-3.352337267859576E-01
+2460324.125000000 = A.D. 2024-Jan-14 15:00:00.0000 TDB 
+ X = 3.357108191147892E+05 Y =-1.399424958046625E+05 Z =-2.640318956365540E+04
+ VX= 8.868775096745546E-02 VY= 1.152845873681046E+00 VZ=-4.872898912138435E-03
+ LT= 1.216401671997033E+00 RG= 3.646680471633003E+05 RR=-3.604100558493475E-01
+2460324.166666667 = A.D. 2024-Jan-14 16:00:00.0000 TDB 
+ X = 3.359393825156161E+05 Y =-1.359463032955787E+05 Z =-2.634928599449397E+04
+ VX= 4.264277897711538E-02 VY= 1.065795014635202E+00 VZ= 3.543473577542072E-02
+ LT= 1.212040614028723E+00 RG= 3.633606348755001E+05 RR=-3.618971645190265E-01
+2460324.208333333 = A.D. 2024-Jan-14 17:00:00.0000 TDB 
+ X = 3.360503311238056E+05 Y =-1.322754601477750E+05 Z =-2.614530839848848E+04
+ VX= 2.360550642217690E-02 VY= 9.731830079157289E-01 VZ= 7.802964251707478E-02
+ LT= 1.207806983281152E+00 RG= 3.620914243074214E+05 RR=-3.392394648211121E-01
+2460324.250000000 = A.D. 2024-Jan-14 18:00:00.0000 TDB 
+ X = 3.361425593099230E+05 Y =-1.289381052776931E+05 Z =-2.578817886505963E+04
+ VX= 3.218548838672403E-02 VY= 8.816352675127049E-01 VZ= 1.200373047766335E-01
+ LT= 1.203985660328480E+00 RG= 3.609458205066280E+05 RR=-2.935427035488861E-01
+2460324.291666667 = A.D. 2024-Jan-14 19:00:00.0000 TDB 
+ X = 3.363137375376529E+05 Y =-1.259185337931914E+05 Z =-2.528515572651618E+04
+ VX= 6.709714626144531E-02 VY= 7.976967744296359E-01 VZ= 1.586228967744733E-01
+ LT= 1.200838833048276E+00 RG= 3.600024254213943E+05 RR=-2.274704698484171E-01
+2460324.333333333 = A.D. 2024-Jan-14 20:00:00.0000 TDB 
+ X = 3.366536100704743E+05 Y =-1.231783001702477E+05 Z =-2.465333819660042E+04
+ VX= 1.252479470705413E-01 VY= 7.273835906422905E-01 VZ= 1.911855205423655E-01
+ LT= 1.198587903079114E+00 RG= 3.593276135931534E+05 RR=-1.451212210122580E-01
+2460324.375000000 = A.D. 2024-Jan-14 21:00:00.0000 TDB 
+ X = 3.372378361105458E+05 Y =-1.206588797019186E+05 Z =-2.391849673024369E+04
+ VX= 2.019503952435039E-01 VY= 6.757706158122595E-01 VZ= 2.155364143929933E-01
+ LT= 1.197397620150344E+00 RG= 3.589707757482218E+05 RR=-5.178058890715566E-02
+2460324.416666667 = A.D. 2024-Jan-14 22:00:00.0000 TDB 
+ X = 3.381227963753520E+05 Y =-1.182857058521409E+05 Z =-2.311330924798734E+04
+ VX= 2.912433111146477E-01 VY= 6.466438336509295E-01 VZ= 2.300489219612098E-01
+ LT= 1.197363892859919E+00 RG= 3.589606645609238E+05 RR= 4.643987559556659E-02
+2460324.458333333 = A.D. 2024-Jan-14 23:00:00.0000 TDB 
+ X = 3.393417209642707E+05 Y =-1.159733068714353E+05 Z =-2.227512407805215E+04
+ VX= 3.863003822230995E-01 VY= 6.422408758967313E-01 VZ= 2.337699459833407E-01
+ LT= 1.198506482562573E+00 RG= 3.593032043363678E+05 RR= 1.430484981881090E-01
+2460324.500000000 = A.D. 2024-Jan-15 00:00:00.0000 TDB 
+ X = 3.409024038342588E+05 Y =-1.136311897095063E+05 Z =-2.144340289864867E+04
+ VX= 4.798979935011293E-01 VY= 6.630976804728774E-01 VZ= 2.264852499915542E-01
+ LT= 1.200767344138068E+00 RG= 3.599809935852832E+05 RR= 2.316599717037522E-01
+$$EOE
+*******************************************************************************
+ 
+TIME
+
+  Barycentric Dynamical Time ("TDB" or T_eph) output was requested. This
+continuous coordinate time is equivalent to the relativistic proper time
+of a clock at rest in a reference frame co-moving with the solar system
+barycenter but outside the system's gravity well. It is the independent
+variable in the solar system relativistic equations of motion.
+
+  TDB runs at a uniform rate of one SI second per second and is independent
+of irregularities in Earth's rotation.
+ 
+CALENDAR SYSTEM
+
+  Mixed calendar mode was active such that calendar dates after AD 1582-Oct-15
+(if any) are in the modern Gregorian system. Dates prior to 1582-Oct-5 (if any)
+are in the Julian calendar system, which is automatically extended for dates
+prior to its adoption on 45-Jan-1 BC.  The Julian calendar is useful for
+matching historical dates. The Gregorian calendar more accurately corresponds
+to the Earth's orbital motion and seasons. A "Gregorian-only" calendar mode is
+available if such physical events are the primary interest.
+
+REFERENCE FRAME AND COORDINATES
+
+  Ecliptic at the standard reference epoch
+
+    Reference epoch: J2000.0
+    X-Y plane: adopted Earth orbital plane at the reference epoch
+               Note: IAU76 obliquity of 84381.448 arcseconds wrt ICRF X-Y plane
+    X-axis   : ICRF
+    Z-axis   : perpendicular to the X-Y plane in the directional (+ or -) sense
+               of Earth's north pole at the reference epoch.
+
+  Symbol meaning:
+
+    JDTDB    Julian Day Number, Barycentric Dynamical Time
+      X      X-component of position vector (km)
+      Y      Y-component of position vector (km)
+      Z      Z-component of position vector (km)
+      VX     X-component of velocity vector (km/sec)                           
+      VY     Y-component of velocity vector (km/sec)                           
+      VZ     Z-component of velocity vector (km/sec)                           
+      LT     One-way down-leg Newtonian light-time (sec)
+      RG     Range; distance from coordinate center (km)
+      RR     Range-rate; radial velocity wrt coord. center (km/sec)
+
+ABERRATIONS AND CORRECTIONS
+
+ Geometric state vectors have NO corrections or aberrations applied.
+
+Computations by ...
+
+    Solar System Dynamics Group, Horizons On-Line Ephemeris System
+    4800 Oak Grove Drive, Jet Propulsion Laboratory
+    Pasadena, CA  91109   USA
+
+    General site: https://ssd.jpl.nasa.gov/
+    Mailing list: https://ssd.jpl.nasa.gov/email_list.html
+    System news : https://ssd.jpl.nasa.gov/horizons/news.html
+    User Guide  : https://ssd.jpl.nasa.gov/horizons/manual.html
+    Connect     : browser        https://ssd.jpl.nasa.gov/horizons/app.html#/x
+                  API            https://ssd-api.jpl.nasa.gov/doc/horizons.html
+                  command-line   telnet ssd.jpl.nasa.gov 6775
+                  e-mail/batch   https://ssd.jpl.nasa.gov/ftp/ssd/hrzn_batch.txt
+                  scripts        https://ssd.jpl.nasa.gov/ftp/ssd/SCRIPTS
+    Author      : Jon.D.Giorgini@jpl.nasa.gov
+*******************************************************************************
