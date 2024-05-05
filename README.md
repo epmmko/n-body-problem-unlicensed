@@ -6,7 +6,7 @@ Solving n-body problem and plotting it with Tkinter
   * https://ssd.jpl.nasa.gov/horizons/app.html#/
 * Kazam for video screen capture
 * Kdenlive for speed-up the video to 10X
-* Wikipedia for Equation dirvation
+* Wikipedia for Equation derivation
 * Numpy/Scipy for solving Newton second law of motion
 * Scipy for rotating view
 * Tkinter for GUI
